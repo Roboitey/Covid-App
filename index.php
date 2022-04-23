@@ -8,6 +8,7 @@
         <li><a href="index.php">Home</a></li>
         <li><a href="about.php">About the DC Team</a></li>
         <li><a href="contact.php">Contact</a></li>
+        <li><a href="logout.php">Logout</a></li>
     </ul>
 
     <h3>Please complete this COVID survey so we can register you.</h3>
